@@ -2,9 +2,12 @@
 User Interfae for the 'Project Rewards' collaboration tool. The UI herein is part of an eco-system to manage and allocate rewards for a project to those who have made contributions.
 
 ## Purpose
-Description:
-* info
-* info
+The user interface will be a lightweight stand-alone front-end module to deal with user logins and roles, and will call project-rewards-api to interact with Ethereum smart contracts
+* 'Mobile-first' design
+* User Login and Authentication
+* Admin Login to assign roles and approve payements
+* Contributor login to record work (or other contribution to a project) and to request payement of Ethereum based Tokens
+* Guidelines for assessing the value of work to the ScrutiNews project so that rewards can be fairly claimed and rewarded according to merit, according to the methodology and process agreed among the team.
 
 ## Co-dependencies:
 https://github.com/ScrutiNews/project-rewards-api
